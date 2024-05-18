@@ -32,11 +32,14 @@
 
 ## Input:
 
+![alt text](image.png)
+
 ### Output:
 
+![alt text](image-2.png)
 
-### Name:
-### Register Number:
+### Name: Jayasree. R
+### Register Number: 212223230087
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
